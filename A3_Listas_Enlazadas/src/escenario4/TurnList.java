@@ -1,4 +1,4 @@
-package escenario4;
+package A3_Listas_Enlazadas.src.escenario4;
 
 public class TurnList {
 
